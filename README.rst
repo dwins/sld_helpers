@@ -18,7 +18,7 @@ See below for info on building your own.
 Utilities
 ---------
 
-* *Saturation* Scan a style for constant colors (not derived from expressions) and modify them by adjusting the saturation by a percentage.
+* **Saturation** Scan a style for constant colors (not derived from expressions) and modify them by adjusting the saturation by a percentage.
   If you're not familiar with saturation, see http://en.wikipedia.org/wiki/HSL_and_HSV for info.
 
 Building
